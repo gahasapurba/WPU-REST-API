@@ -1,0 +1,30 @@
+[
+    {
+        "nama" : "Gahasa Purba",
+        "umur" : 18,
+        "nim"  : "11419048",
+        "lulus": false,
+        "hobby": [
+            "coding",
+            "photography"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Arnaldo Sinaga",
+            "pembimbing2": "Yohansen Pratama"
+        }
+    },
+    {
+        "nama" : "Gahasa Purba",
+        "umur" : 18,
+        "nim"  : "11419048",
+        "lulus": false,
+        "hobby": [
+            "coding",
+            "photography"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Arnaldo Sinaga",
+            "pembimbing2": "Yohansen Pratama"
+        }
+    }
+]
